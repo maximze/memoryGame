@@ -1,9 +1,9 @@
 # memoryGame
 
-* 1. open Command Prompt
-* 2. type "npm install"
-* 3. type "npm run create"
-* 4. type "npm run start"
-* 5. Play it
+* open Command Prompt
+* type "npm install"
+* type "npm run create"
+* type "npm run start"
+* Play it
 
 * Done!
